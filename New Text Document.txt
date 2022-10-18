@@ -19,3 +19,5 @@ Diretcory     staging area         local repo             remote repo(Github)
 
 -Example of creating branhc in the remote branch and reflect to local branch.
 -then
+
+Branch_B
