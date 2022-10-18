@@ -1,1 +1,17 @@
 XEEXample
+
+git pull = git fetch + git merge
+
+git fetch = from remote branch to remote tracking branch
+git merge = from remote tracking branch to local branch
+
+origin master -->remote branch 
+origin/master --> remote tracking branch (local system)
+master --> local branch
+
+
+
+Diretcory     staging area         local repo             remote repo(Github)
+|---------------------|----------------|-----------------------|
+    git add             git commit          git push
+|-------------------->|--------------->|---------------------->|
